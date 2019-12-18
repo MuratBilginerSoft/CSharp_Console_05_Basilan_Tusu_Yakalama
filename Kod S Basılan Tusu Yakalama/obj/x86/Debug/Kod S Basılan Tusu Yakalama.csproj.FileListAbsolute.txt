@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Basılan Tusu Yakalama\Kod S Basılan Tusu Yakalama\bin\Debug\Kod S Basılan Tusu Yakalama.exe
+C:\Users\mrt_b\Desktop\Kod S Basılan Tusu Yakalama\Kod S Basılan Tusu Yakalama\bin\Debug\Kod S Basılan Tusu Yakalama.pdb
+C:\Users\mrt_b\Desktop\Kod S Basılan Tusu Yakalama\Kod S Basılan Tusu Yakalama\obj\x86\Debug\Kod S Basılan Tusu Yakalama.exe
+C:\Users\mrt_b\Desktop\Kod S Basılan Tusu Yakalama\Kod S Basılan Tusu Yakalama\obj\x86\Debug\Kod S Basılan Tusu Yakalama.pdb
